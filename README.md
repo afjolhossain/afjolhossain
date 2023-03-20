@@ -1,6 +1,7 @@
+
+![I am web Developer](https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/69375109_2469617856464203_615551349903327232_n.jpg?stp=dst-jpg_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEEHAPp9jvcU6VX_iCx7yiZJTLTXUfWSpslMtNdR9ZKmyGvTbPyNpySoZGb8OsrJfZ1T7JpbSPlkzkzSAZOjRxb&_nc_ohc=Lrnt-ATwnTgAX-Ldwnu&_nc_ht=scontent.fzyl1-1.fna&oh=00_AfBSEIkpudjVouknMCnBdUmGmSLOpIx8ZYTCjMrK0lNYiQ&oe=643F8C2A)
 ### Hi there 👋, My name is Afjol Hossain
 #### I am web Developer
-![I am web Developer](https://scontent.fzyl1-1.fna.fbcdn.net/v/t1.6435-9/69375109_2469617856464203_615551349903327232_n.jpg?stp=dst-jpg_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEEHAPp9jvcU6VX_iCx7yiZJTLTXUfWSpslMtNdR9ZKmyGvTbPyNpySoZGb8OsrJfZ1T7JpbSPlkzkzSAZOjRxb&_nc_ohc=Lrnt-ATwnTgAX-Ldwnu&_nc_ht=scontent.fzyl1-1.fna&oh=00_AfBSEIkpudjVouknMCnBdUmGmSLOpIx8ZYTCjMrK0lNYiQ&oe=643F8C2A)
 
 Hello, I am Afjol Hossain. I am passionate about entering the world of websites and contributing towards
 making a social impact on users. I have been following various technology magazines and pages to
